@@ -16,6 +16,7 @@ better you'll get.
 
 1.  Fork and clone this repository.
 1.  Change into the new directory.
+1.  Create a development branch to work on.
 1.  Fulfill the listed requirements.
 
 Starter code is available in [`lib/challenge.js`](lib/challenge.js). You are
@@ -23,7 +24,7 @@ required to turn in your submission by making a pull request on the original
 repository.
 
 Unless otherwise specified on the calendar, homework is due the next morning by
-9:00am.
+9:00am via Pull Request.
 
 **Make a commit after each prompt.**
 
